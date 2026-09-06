@@ -1,4 +1,4 @@
-# IT Support Diagnostics
+# IT Support diagnostics
 
 A Bash-based diagnostic tool for basic troubleshooting of a macOS workstation.
 
